@@ -1,3 +1,16 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "Divad Restoration Test",
+      "day": "15th Of NeverDay",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Just Something New",
+      "day": "Blah Blah",
+      "reminder": false,
+      "id": 2
+    }
+  ]
 }
